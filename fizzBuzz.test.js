@@ -1,4 +1,4 @@
-const fizzBuzz = require("./fuzzBuzz")
+const fizzBuzz = require("./fizzBuzz")
 
 test("multiple of 3 and 5",()=>{
     expect(fizzBuzz(30)).toBe("FizzBuzz");
