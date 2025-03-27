@@ -1,14 +1,19 @@
-const { add, subtract, multiply, divide } = require("./math")
+
+const { add, subtract, divide, multiply } = require("./math")
 
 test("adding two numbers",()=>{
-    expect(add(12,14)).toBe(26);
+    expect(add(3,5)).toBe(8);
 });
-test("subracting two numbers", ()=>{
-expect(subtract(100,63)).toBe(37)
-})
-test("multiply two numbers",()=>{
-expect(multiply(10,4)).toBe(40)
-})
-test("divide two numbers",()=>{
-    expect(divide(100,4)).toBe(25)
-})
+
+test("subtructing two numbers",()=>{
+    expect(subtract(8,3)).toBe(5);
+});
+
+test("dividing two numbers",()=>{
+    expect(divide(4,2)).toBe(2);
+});
+
+test("multiplying two numbers",()=>{
+    expect(multiply(8,1)).toBe(8);
+});
+
