@@ -1,0 +1,20 @@
+{
+  "name": "quality-assurance-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahderbekele/Quality-Assurance-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahderbekele/Quality-Assurance-Test/issues"
+  },
+  "homepage": "https://github.com/mahderbekele/Quality-Assurance-Test#readme"
+}
