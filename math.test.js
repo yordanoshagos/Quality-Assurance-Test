@@ -1,3 +1,4 @@
+
 const { add, subtract, divide, multiply } = require("./math")
 
 test("adding two numbers",()=>{
@@ -15,3 +16,4 @@ test("dividing two numbers",()=>{
 test("multiplying two numbers",()=>{
     expect(multiply(8,1)).toBe(8);
 });
+

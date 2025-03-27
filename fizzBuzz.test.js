@@ -1,3 +1,4 @@
+
 const fizzBuzz = require("./fizzBuzz");
 
 test("testing fizzBuzz",()=>{
@@ -11,3 +12,5 @@ test("testing fizzBuzz",()=>{
 test("testing fizzBuzz",()=>{
     expect(fizzBuzz(10)).toBe("Buzz");
 });
+
+

@@ -4,4 +4,6 @@ function fizzBuzz(num) {
     if (num % 5 === 0) return 'Buzz';
     return num.toString();
   }
+
   module.exports = fizzBuzz;
+

@@ -8,13 +8,17 @@
   },
   "repository": {
     "type": "git",
+
     "url": "git+https://github.com/judygikuni/Quality-Assurance-Test.git"
+
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/judygikuni/Quality-Assurance-Test/issues"
+
+    "url": "https://github.com/mahderbekele/Quality-Assurance-Test/issues"
   },
-  "homepage": "https://github.com/judygikuni/Quality-Assurance-Test#readme"
+  "homepage": "https://github.com/mahderbekele/Quality-Assurance-Test#readme"
+
 }

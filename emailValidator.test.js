@@ -1,5 +1,4 @@
 const isValidEmail = require("./emailValidator")
-
 test("Checking validation of an email",()=>{
     expect(isValidEmail("yordanoshagos@gmail.com")).toBe(true);
 });
@@ -18,3 +17,4 @@ test("Checking validation of an email",()=>{
 test("Checking validation of an email",()=>{
     expect(isValidEmail("madosiphele@gmail.com")).toBe(true);
 });
+
